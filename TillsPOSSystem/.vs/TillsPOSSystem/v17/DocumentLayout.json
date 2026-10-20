@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D5E59F-28DB-4DCB-9246-48A0BF2B153E}|..\\TillsPOSSystem.api\\TillsPOSSystem.api.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\TillsPOSSystem.api\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\TillsPOSSystem.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-20T23:13:08.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T23:09:28.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
