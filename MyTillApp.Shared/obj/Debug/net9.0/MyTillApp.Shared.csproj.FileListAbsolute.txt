@@ -1,0 +1,12 @@
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\bin\Debug\net9.0\MyTillApp.Shared.deps.json
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\bin\Debug\net9.0\MyTillApp.Shared.dll
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\bin\Debug\net9.0\MyTillApp.Shared.pdb
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\obj\Debug\net9.0\MyTillApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\obj\Debug\net9.0\MyTillApp.Shared.AssemblyInfoInputs.cache
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\obj\Debug\net9.0\MyTillApp.Shared.AssemblyInfo.cs
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\obj\Debug\net9.0\MyTillApp.Shared.csproj.CoreCompileInputs.cache
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\obj\Debug\net9.0\MyTillApp.Shared.sourcelink.json
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\obj\Debug\net9.0\MyTillApp.Shared.dll
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\obj\Debug\net9.0\refint\MyTillApp.Shared.dll
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\obj\Debug\net9.0\MyTillApp.Shared.pdb
+E:\GithubLocalRepos\TakeawayTillSystem\MyTillApp.Shared\obj\Debug\net9.0\ref\MyTillApp.Shared.dll

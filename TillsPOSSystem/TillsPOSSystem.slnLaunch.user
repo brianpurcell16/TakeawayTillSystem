@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TillsPOSSystem.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\TillsPOSSystem.api\\TillsPOSSystem.api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
