@@ -1,7 +1,15 @@
 using MyTillApp.Shared;
 using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
+using TillsPOSSystem.api;
 
 var builder = WebApplication.CreateBuilder(args);
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(connectionString));
+
 
 builder.Services.AddCors(options =>
 {
@@ -13,8 +21,11 @@ builder.Services.AddCors(options =>
     });
 });
 
+builder.Services.AddControllers();
+
 var app = builder.Build();
 app.UseCors("AllowAll");
+app.MapControllers();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

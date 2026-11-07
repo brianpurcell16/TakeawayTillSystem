@@ -1,0 +1,51 @@
+﻿@page "/login"
+@inject HttpClient Http
+
+<div>
+    <h1>Welcome</h1>
+    <div>
+        <form>
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input type="text" class="form-control" id="username" @bind="searchModel.Username" placeholder="Enter username">
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" class="form-control" id="password" @bind="searchModel.Password" placeholder="Password">
+            </div>
+            <div class="form-group">
+                <button type="button" class="btn btn-primary" @onclick="userLogin">Login</button>
+                @* <button type="submit" class="btn btn-primary" @onclick="userClockIn">Clock In</button>
+                <button type="submit" class="btn btn-primary" @onclick="userClockOut">Clock Out</button> *@
+            </div>
+        </form>
+    </div>
+    
+</div>
+@code {
+
+    private UserModel searchModel = new UserModel();
+
+    private UserModel resultModel;
+
+    private async Task userLogin()
+    {
+        Console.WriteLine("Login button clicked");
+        var response = await Http.PostAsJsonAsync<UserModel>("api/User/login", searchModel);
+
+        if (response.IsSuccessStatusCode)
+        {
+            resultModel = await response.Content.ReadFromJsonAsync<UserModel>();
+            // Handle successful login, e.g., redirect to another page
+            Console.WriteLine("Login successful: " + resultModel.Username);
+        }
+        else
+        {
+            // Handle login failure, e.g., show an error message
+            Console.WriteLine("Login failed: " + response.ReasonPhrase);
+
+        }
+
+    }
+
+}

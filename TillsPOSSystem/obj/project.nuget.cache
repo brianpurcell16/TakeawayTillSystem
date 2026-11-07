@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2o34IaaXoAA=",
+  "dgSpecHash": "A+rh8dwwnKI=",
   "success": true,
   "projectFilePath": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\TillsPOSSystem.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,6 @@
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\9.0.9\\microsoft.aspnetcore.components.webassembly.9.0.9.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\9.0.9\\microsoft.aspnetcore.components.webassembly.devserver.9.0.9.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.metadata\\9.0.9\\microsoft.aspnetcore.metadata.9.0.9.nupkg.sha512",
-    "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.18\\microsoft.bcl.cryptography.9.0.18.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.data.sqlclient\\7.1.1\\microsoft.data.sqlclient.7.1.1.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.data.sqlclient.extensions.abstractions\\7.1.1\\microsoft.data.sqlclient.extensions.abstractions.7.1.1.nupkg.sha512",
@@ -44,7 +43,6 @@
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.9\\microsoft.jsinterop.webassembly.9.0.9.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.9\\microsoft.net.illink.tasks.9.0.9.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.9\\microsoft.net.sdk.webassembly.pack.9.0.9.nupkg.sha512",
-    "C:\\Users\\marti\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.18\\system.configuration.configurationmanager.9.0.18.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.18\\system.diagnostics.eventlog.9.0.18.nupkg.sha512",

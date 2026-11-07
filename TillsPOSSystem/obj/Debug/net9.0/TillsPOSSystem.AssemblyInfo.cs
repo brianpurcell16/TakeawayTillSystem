@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TillsPOSSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8846b8092125c94ad83072614c2ac6b1284cb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0a7ab3de38b6e02d941604c479b06eebc9a81b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TillsPOSSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TillsPOSSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,64 +3,230 @@
   "WorkspaceRootPath": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{09463CBD-8BAD-469D-84B0-B097606AAF2C}|..\\MyTillApp.Shared\\MyTillApp.Shared.csproj|e:\\githublocalrepos\\takeawaytillsystem\\mytillapp.shared\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D5E59F-28DB-4DCB-9246-48A0BF2B153E}|..\\TillsPOSSystem.api\\TillsPOSSystem.api.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70D5E59F-28DB-4DCB-9246-48A0BF2B153E}|..\\TillsPOSSystem.api\\TillsPOSSystem.api.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{70D5E59F-28DB-4DCB-9246-48A0BF2B153E}|..\\TillsPOSSystem.api\\TillsPOSSystem.api.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D5E59F-28DB-4DCB-9246-48A0BF2B153E}|..\\TillsPOSSystem.api\\TillsPOSSystem.api.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem.api\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70D5E59F-28DB-4DCB-9246-48A0BF2B153E}|..\\TillsPOSSystem.api\\TillsPOSSystem.api.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\tillspossystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:tillspossystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09463CBD-8BAD-469D-84B0-B097606AAF2C}|..\\MyTillApp.Shared\\MyTillApp.Shared.csproj|e:\\githublocalrepos\\takeawaytillsystem\\mytillapp.shared\\mytillapp.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09463CBD-8BAD-469D-84B0-B097606AAF2C}|..\\MyTillApp.Shared\\MyTillApp.Shared.csproj|e:\\githublocalrepos\\takeawaytillsystem\\mytillapp.shared\\ordermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70D5E59F-28DB-4DCB-9246-48A0BF2B153E}|..\\TillsPOSSystem.api\\TillsPOSSystem.api.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|e:\\githublocalrepos\\takeawaytillsystem\\tillspossystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D950BEA1-F77E-4379-A7C4-AD94CE1270BE}|TillsPOSSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 287,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\TillsPOSSystem.api\\AppDbContext.cs",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\AppDbContext.cs",
+              "RelativeToolTip": "..\\TillsPOSSystem.api\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T04:18:55.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\TillsPOSSystem.api\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\TillsPOSSystem.api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T04:11:43.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T04:00:23.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T03:59:59.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TillsPOSSystem",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\TillsPOSSystem.csproj",
+              "RelativeDocumentMoniker": "TillsPOSSystem.csproj",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\TillsPOSSystem.csproj",
+              "RelativeToolTip": "TillsPOSSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-07T03:54:15.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyTillApp.Shared",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\MyTillApp.Shared\\MyTillApp.Shared.csproj",
+              "RelativeDocumentMoniker": "..\\MyTillApp.Shared\\MyTillApp.Shared.csproj",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\MyTillApp.Shared\\MyTillApp.Shared.csproj",
+              "RelativeToolTip": "..\\MyTillApp.Shared\\MyTillApp.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-07T03:53:46.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-07T03:51:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.razor",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Pages\\LoginPage.razor",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.razor",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Pages\\LoginPage.razor",
+              "RelativeToolTip": "Pages\\LoginPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T03:45:47.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Pages\\Counter.razor",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Pages\\Counter.razor",
+              "RelativeToolTip": "Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T03:44:36.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\MyTillApp.Shared\\UserModel.cs",
+              "RelativeDocumentMoniker": "..\\MyTillApp.Shared\\UserModel.cs",
+              "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\MyTillApp.Shared\\UserModel.cs",
+              "RelativeToolTip": "..\\MyTillApp.Shared\\UserModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T03:38:14.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\appsettings.json",
               "RelativeDocumentMoniker": "..\\TillsPOSSystem.api\\appsettings.json",
               "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\appsettings.json",
               "RelativeToolTip": "..\\TillsPOSSystem.api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-10-31T07:40:33.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\Program.cs",
               "RelativeDocumentMoniker": "..\\TillsPOSSystem.api\\Program.cs",
               "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\Program.cs",
               "RelativeToolTip": "..\\TillsPOSSystem.api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-31T07:35:40.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "_Imports.razor",
               "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\_Imports.razor",
               "RelativeDocumentMoniker": "_Imports.razor",
@@ -73,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "OrderModels.cs",
               "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\MyTillApp.Shared\\OrderModels.cs",
               "RelativeDocumentMoniker": "..\\MyTillApp.Shared\\OrderModels.cs",
@@ -86,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem.api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "..\\TillsPOSSystem.api\\Properties\\launchSettings.json",
@@ -99,13 +265,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\GithubLocalRepos\\TakeawayTillSystem\\TillsPOSSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T23:09:28.643Z",
               "EditorCaption": ""

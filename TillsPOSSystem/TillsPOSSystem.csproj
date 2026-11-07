@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MyTillApp.Shared\MyTillApp.Shared.csproj" />
-    <ProjectReference Include="..\TillsPOSSystem.api\TillsPOSSystem.api.csproj" />
   </ItemGroup>
 
 </Project>
